@@ -15,8 +15,7 @@ public class Main {
 
 
             // fpr (int i; i < 5; i++)
-                // above shows that if I do not initialize i, it will still show an error saying it is not initialized,
-                //but when I do initialize it, it shows that it was already done before
+                
             }
             for(int i = 0; i < 5; i++){
                 if (i==4) {
